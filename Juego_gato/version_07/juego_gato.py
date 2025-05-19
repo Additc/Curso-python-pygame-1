@@ -1,6 +1,6 @@
 """
 Nombre del equipo: Átomos
-Integrantes: Bryan Gracida Tapia, Addi Toro Chávez
+Integrantes: Bryan Gracida Tapia, Addi Toro Chávez.
 fecha: 13 de mayo del 2025
 versión: 0.7
 Se agregó la música y los efectos del sonido al juego. Para ello:
